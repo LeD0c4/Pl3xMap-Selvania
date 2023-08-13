@@ -101,7 +101,7 @@ export class Spawn {
  * Represents UI settings.
  */
 export class UI {
-    private _link: string = 'bottomright';
+    private _link: string = 'centerleft';
     private _coords: string = 'bottomcenter';
     private _blockinfo: string = 'bottomleft';
     private _attribution: boolean = true;
